@@ -1,0 +1,11 @@
+G:\c# connect database\LoginApplication\LoginApplication\bin\Debug\LoginApplication.exe.config
+G:\c# connect database\LoginApplication\LoginApplication\bin\Debug\LoginApplication.exe
+G:\c# connect database\LoginApplication\LoginApplication\bin\Debug\LoginApplication.pdb
+G:\c# connect database\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.AssemblyReference.cache
+G:\c# connect database\LoginApplication\LoginApplication\obj\Debug\LoginApplication.Form1.resources
+G:\c# connect database\LoginApplication\LoginApplication\obj\Debug\LoginApplication.Properties.Resources.resources
+G:\c# connect database\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.GenerateResource.cache
+G:\c# connect database\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.CoreCompileInputs.cache
+G:\c# connect database\LoginApplication\LoginApplication\obj\Debug\LoginApplication.exe
+G:\c# connect database\LoginApplication\LoginApplication\obj\Debug\LoginApplication.pdb
+G:\c# connect database\LoginApplication\LoginApplication\obj\Debug\LoginApplication.Form2.resources
